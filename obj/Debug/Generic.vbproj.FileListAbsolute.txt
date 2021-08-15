@@ -1,0 +1,57 @@
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\bin\Debug\Generic.exe.config
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\bin\Debug\Generic.exe
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\bin\Debug\Generic.pdb
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\bin\Debug\Generic.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\bin\Debug\WebDriver.dll
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\bin\Debug\WebDriver.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\obj\Debug\Generic.vbprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\obj\Debug\Generic.Form1.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\obj\Debug\Generic.Resources.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\obj\Debug\Generic.vbproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\obj\Debug\Generic.vbproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\obj\Debug\Generic.exe
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\obj\Debug\Generic.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\Generic\obj\Debug\Generic.pdb
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\bin\Debug\Generic.exe.config
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\bin\Debug\Generic.exe
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\bin\Debug\Generic.pdb
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\bin\Debug\Generic.xml
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\bin\Debug\WebDriver.dll
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\bin\Debug\WebDriver.xml
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.vbproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.Form1.resources
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.Resources.resources
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.vbproj.GenerateResource.cache
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.vbproj.CopyComplete
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.exe
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.xml
+C:\Users\pc\Desktop\Software and Files\Expert 23\Scrapers\Flex Jobs\Generic\obj\Debug\Generic.pdb
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\bin\Debug\Generic.exe.config
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\bin\Debug\Generic.exe
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\bin\Debug\Generic.pdb
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\bin\Debug\Generic.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\bin\Debug\WebDriver.dll
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\bin\Debug\WebDriver.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\obj\Debug\Generic.vbprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\obj\Debug\Generic.Form1.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\obj\Debug\Generic.Resources.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\obj\Debug\Generic.vbproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\obj\Debug\Generic.vbproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\obj\Debug\Generic.exe
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\obj\Debug\Generic.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\Generic\obj\Debug\Generic.pdb
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\bin\Debug\Generic.exe.config
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\bin\Debug\Generic.exe
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\bin\Debug\Generic.pdb
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\bin\Debug\Generic.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\bin\Debug\WebDriver.dll
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\bin\Debug\WebDriver.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\obj\Debug\Generic.vbprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\obj\Debug\Generic.Form1.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\obj\Debug\Generic.Resources.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\obj\Debug\Generic.vbproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\obj\Debug\Generic.vbproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\obj\Debug\Generic.exe
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\obj\Debug\Generic.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Scrapers\UPWORK\0\Generic\obj\Debug\Generic.pdb
